@@ -1,16 +1,15 @@
 # Audio Transcriber with GPU Support
 
-A high-performance audio transcription system supporting both Intel GPU (Arc) and NVIDIA GPU acceleration. This tool provides automatic transcription, romanization, and translation for audio files with a focus on Japanese content.
+I created this to use OpenAI's whisper model with Intel Arc. It provides an audio file's transcription and translation (albeit imperfect). I've only tested it with Japanese audio so far, but it should work with other languages
 
 ## Features
 
-- 🚀 GPU Acceleration (Intel Arc and NVIDIA)
-- 🎯 Automatic language detection
-- 🈂️ Japanese romanization
-- 🔄 English translation
-- 📁 Batch processing support
-- ⚡ Multi-threaded processing
-- 🖥️ User-friendly CLI interface
+- GPU Acceleration (Intel Arc and NVIDIA)
+- Automatic language detection
+- Japanese romanization
+- English translation
+- Batch processing support
+- Multi-threaded processing
 
 ## Requirements
 
